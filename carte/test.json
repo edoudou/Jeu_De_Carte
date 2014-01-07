@@ -1,0 +1,11 @@
+{
+    "type" : "M",
+    "pointAction" : 1,
+ 
+    "typeMonstre" : "A",
+    "vieMonstre" : 3,
+    "attaqueMonstre" : 1,
+    "vitesse" : 0.07,
+    "range" : 1 ,
+    "vitesseAction" : 10
+}
